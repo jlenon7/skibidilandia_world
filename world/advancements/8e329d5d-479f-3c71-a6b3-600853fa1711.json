@@ -1,69 +1,148 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-02-17 11:33:02 -0300"
+      "unlock_right_away": "2025-02-17 14:33:02 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cherry_grove": "2025-02-17 11:33:03 -0300",
-      "minecraft:river": "2025-02-17 11:56:08 -0300",
-      "minecraft:plains": "2025-02-17 11:54:09 -0300"
+      "minecraft:jungle": "2025-02-18 00:37:34 +0000",
+      "minecraft:cherry_grove": "2025-02-17 14:33:03 +0000",
+      "minecraft:river": "2025-02-17 14:56:08 +0000",
+      "minecraft:plains": "2025-02-17 14:54:09 +0000"
     },
     "done": false
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2025-02-17 11:45:12 -0300"
+      "in_water": "2025-02-17 14:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-18 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-18 01:19:34 +0000"
     },
     "done": true
   },
