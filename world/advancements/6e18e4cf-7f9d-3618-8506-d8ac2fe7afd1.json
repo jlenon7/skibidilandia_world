@@ -39,15 +39,19 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-15 19:23:37 +0000",
-      "apple": "2025-02-16 04:18:30 +0000",
+      "mutton": "2025-02-19 18:31:03 +0000",
+      "chicken": "2025-02-19 18:34:05 +0000",
       "bread": "2025-02-15 19:13:47 +0000",
       "golden_apple": "2025-02-16 20:25:42 +0000",
-      "cooked_chicken": "2025-02-16 20:04:10 +0000",
       "rotten_flesh": "2025-02-15 20:00:44 +0000",
       "cooked_mutton": "2025-02-15 21:39:52 +0000",
       "glow_berries": "2025-02-16 03:08:05 +0000",
       "sweet_berries": "2025-02-15 20:32:02 +0000",
       "cooked_beef": "2025-02-15 21:07:08 +0000",
+      "beef": "2025-02-19 18:37:50 +0000",
+      "porkchop": "2025-02-19 18:36:09 +0000",
+      "apple": "2025-02-16 04:18:30 +0000",
+      "cooked_chicken": "2025-02-16 20:04:10 +0000",
       "cooked_salmon": "2025-02-16 03:57:51 +0000"
     },
     "done": false
@@ -180,6 +184,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-19 22:05:27 +0000",
       "minecraft:skeleton": "2025-02-15 19:19:55 +0000",
       "minecraft:witch": "2025-02-16 02:45:13 +0000",
       "minecraft:ender_dragon": "2025-02-19 17:16:25 +0000",
@@ -188,6 +193,7 @@
       "minecraft:piglin": "2025-02-16 20:03:02 +0000",
       "minecraft:enderman": "2025-02-16 20:05:38 +0000",
       "minecraft:silverfish": "2025-02-18 21:47:34 +0000",
+      "minecraft:magma_cube": "2025-02-19 18:52:03 +0000",
       "minecraft:spider": "2025-02-15 21:44:03 +0000",
       "minecraft:piglin_brute": "2025-02-18 22:01:18 +0000",
       "minecraft:zombie": "2025-02-15 19:18:47 +0000",
@@ -2527,6 +2533,78 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-02-19 17:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-19 18:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-19 18:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-19 18:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-19 18:57:47 +0000"
     },
     "done": true
   },
