@@ -906,11 +906,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-16 20:48:14 +0000",
+      "mutton": "2025-02-20 20:29:58 +0000",
+      "chicken": "2025-02-20 20:29:56 +0000",
       "bread": "2025-02-16 21:29:41 +0000",
       "cooked_chicken": "2025-02-16 20:42:12 +0000",
       "rotten_flesh": "2025-02-17 01:58:10 +0000",
       "cooked_mutton": "2025-02-17 02:18:14 +0000",
       "cooked_beef": "2025-02-16 21:16:04 +0000",
+      "porkchop": "2025-02-20 20:29:54 +0000",
       "carrot": "2025-02-17 03:04:30 +0000"
     },
     "done": false
@@ -2974,6 +2977,24 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-19 23:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-20 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-20 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-20 20:31:03 +0000"
     },
     "done": true
   },
