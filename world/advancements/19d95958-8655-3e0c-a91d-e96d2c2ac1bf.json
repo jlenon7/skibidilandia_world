@@ -424,6 +424,7 @@
       "cooked_mutton": "2025-02-16 03:39:30 +0000",
       "glow_berries": "2025-02-16 02:20:07 +0000",
       "sweet_berries": "2025-02-15 21:14:57 +0000",
+      "salmon": "2025-02-20 22:53:01 +0000",
       "cooked_beef": "2025-02-15 19:38:57 +0000",
       "beef": "2025-02-15 19:14:42 +0000",
       "porkchop": "2025-02-15 19:17:29 +0000",
@@ -573,6 +574,7 @@
       "minecraft:bogged": "2025-02-16 18:03:56 +0000",
       "minecraft:hoglin": "2025-02-16 20:15:46 +0000",
       "minecraft:cave_spider": "2025-02-16 18:48:13 +0000",
+      "minecraft:piglin": "2025-02-20 23:18:46 +0000",
       "minecraft:enderman": "2025-02-18 21:03:17 +0000",
       "minecraft:silverfish": "2025-02-18 22:20:32 +0000",
       "minecraft:magma_cube": "2025-02-16 20:59:26 +0000",
@@ -2980,6 +2982,48 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-20 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-20 22:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-20 22:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-20 22:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-20 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-20 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-20 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-02-20 23:29:50 +0000"
     },
     "done": true
   },
