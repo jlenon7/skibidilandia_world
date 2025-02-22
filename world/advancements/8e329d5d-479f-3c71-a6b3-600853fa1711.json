@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:ice_spikes": "2025-02-22 15:16:58 +0000",
+      "minecraft:beach": "2025-02-22 15:17:12 +0000",
       "minecraft:river": "2025-02-21 14:50:17 +0000",
       "minecraft:lush_caves": "2025-02-21 14:51:49 +0000",
       "minecraft:snowy_taiga": "2025-02-21 14:49:28 +0000",
